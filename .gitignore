@@ -1,0 +1,6 @@
+.*
+*.swp
+*.bak
+*.exe
+sptool
+!.gitignore
